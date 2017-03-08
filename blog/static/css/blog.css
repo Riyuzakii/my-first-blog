@@ -1,13 +1,16 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #ffa100;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #080202;
     font-size: 36pt;
     text-decoration: none;
+}
+body {
+    background: #0593f7 url("file:///home/light/Videos/stainless_steel_uchiha_clan_by_uchihaitachi121.jpg") no-repeat right bottom;
 }
 
 .content {
@@ -19,7 +22,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #f5efef;
 }
 
 .save {
@@ -31,7 +34,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #0593f7;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
